@@ -1,0 +1,28 @@
+body {
+    align-items: center;
+    text-align: center;
+}
+
+#toServer {
+    padding:20px;
+    background-color: blue;
+    color:white;
+    border-radius: 100px;
+    border:15px solid black;
+}
+
+.info {
+    padding:15px;
+    background-color: purple;
+    color:white;
+    border-radius: 100px;
+    border:5px solid black;
+}
+
+#cosmo {
+    padding:15px;
+    background-color: red;
+    color:white;
+    border-radius: 100px;
+    border:5px solid black;
+}
